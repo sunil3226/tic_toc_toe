@@ -51,10 +51,10 @@ class MainActivity : AppCompatActivity() {
 
         if (currentbtn.text.isBlank()) {
             if (flag == 0) {
-                currentbtn.text = "0"
+                currentbtn.text = "o"
                 flag = 1
             } else {
-                currentbtn.text = "*"
+                currentbtn.text = "x"
                 flag = 0
             }
 
