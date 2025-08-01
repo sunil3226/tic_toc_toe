@@ -47,3 +47,5 @@ Feel free to reach out if you want to contribute or have suggestions!
 ---
 
 Thank you for checking out my Tic Tac Toe app! Have fun playing! 🎉
+
+<h2 align="center">✨ Happy Learning!</h2>
